@@ -8,7 +8,7 @@ között.
 
 ---
 
-![[READMIKOR]]
+![[READMIKOR.md]]
 
 ---
 
