@@ -33,5 +33,5 @@ Kérjük, hogy a közös munka során mindig tartsd be az Alapítvány adatvéde
 [[ETIKA.hu.html]]
 [[LICENCE.hu.html]]
 
-| ![!100](QR_H35.png) | **Csindra Alapítvány**<br>V1.26.3  <br>[web.csindra.hu](https://web.csindra.hu)  <br>[GitHub: Fizikova-Csindra](https://github.com/Fizikova-Csindra) | ![[H35/Barcode.png]] |
+| ![!100](QR_H35.png) | **Csindra Alapítvány**<br>V1.26.3  <br>[web.csindra.hu](https://web.csindra.hu)  <br>[GitHub: Csindra-H35](https://github.com/Fizikova-Csindra/H35) | ![](Barcode_H35.png) |
 | :-----------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: | -------------------- |
