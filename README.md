@@ -8,11 +8,11 @@ között.
 
 ---
 
-![[READMIKOR]]
+[READMIKOR](READMIKOR)
 
 ---
 
-![[READTEMA]]
+[READTEMA](READTEMA)
 _______________
 ## ✨ Hogyan Járulhatsz Hozzá?
 
